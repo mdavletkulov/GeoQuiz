@@ -6,7 +6,7 @@
     <string name="previous_button">Prev</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
-    <string name="quiz_success">All answers are correct!</string>
+    <string name="quiz_finished">Quiz finished</string>
 
     <string name="question_australia">Canberra is the capital of Australia.</string>
     <string name="question_oceans">The Pacific Ocean is larger than
